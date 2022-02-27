@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The examination of Mr. VVil. Prynne, by order of the House of Commons; with his answer. Likewise several votes in prosecution of the tryal of the Kings Majesty in the Painted-Chamber, Westminster. Also the tryal of Sir Robert Stuart, by the Lord General and the General Councel of the Army. Together with a letter from Holland, certifying the landing of Alderman Langham, and Alderman Bunch, to the House of Commons. Imprimatur, G.M.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84227</idno>
+            <idno type="STC">Wing E3720</idno>
+            <idno type="STC">Thomason E537_30</idno>
+            <idno type="STC">ESTC R201914</idno>
+            <idno type="EEBO-CITATION">99862396</idno>
+            <idno type="PROQUEST">99862396</idno>
+            <idno type="VID">114555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114555)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The examination of Mr. VVil. Prynne, by order of the House of Commons; with his answer. Likewise several votes in prosecution of the tryal of the Kings Majesty in the Painted-Chamber, Westminster. Also the tryal of Sir Robert Stuart, by the Lord General and the General Councel of the Army. Together with a letter from Holland, certifying the landing of Alderman Langham, and Alderman Bunch, to the House of Commons. Imprimatur, G.M.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Beck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 4th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669 --  Early works to 1800.</term>
+               <term>Stewart, Robert, --  Sir, d. 1670? --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114555:1"/>
+            <pb facs="tcp:114555:1" rendition="simple:additions"/>
+            <p>THE EXAMINATION OF Mr. VVil. Prynne, By Order of the Houſe of Commons; WITH HIS ANSWER.</p>
+            <p>Likewiſe ſeveral Votes in proſecution of the Tryal of The Kings Majeſty In the Painted-Chamber, <hi>Weſtminſter.</hi>
+            </p>
+            <p>Alſo the Tryal of Sir <hi>Robert Stuart,</hi> by the Lord General and the General Councel of the ARMY.</p>
+            <p>Together with a LETTER from <hi>Holland,</hi> certi<g ref="char:EOLhyphen"/>fying the Landing of Alderman <hi>Langham,</hi> and Alderman <hi>Bunch,</hi> to the Houſe of Commons.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>G. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>Jan: 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi rend="sup">th.</hi>
+               </add> 
+               <hi>London,</hi> Printed for <hi>H. Beck,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114555:2"/>
+            <pb n="3" facs="tcp:114555:2"/>
+            <head>SEVERAL Votes, Orders, and Ordinances, for tryal of His Majeſty.</head>
+            <p>THe Committee of Indempnity, or<g ref="char:EOLhyphen"/>dered to draw up an expedient, how all the people of <hi>England</hi> may have the benefit of the ſeveral Ordinan<g ref="char:EOLhyphen"/>ces for Indempnity, without being put to that trouble and extraordinary charge of coming to <hi>London.</hi>
+            </p>
+            <p>They voted, that two Members of the Houſe to peruſe the Lords Journal-Book, and to cer<g ref="char:EOLhyphen"/>tifie what they had voted upon the Ordinance and Vote, yeſterday rejected by them, they preſently return anſwer, That the Houſe of Lords yeſterday conſiſting of the Earl of <hi>Den<g ref="char:EOLhyphen"/>bigh,</hi> Earl of <hi>Northumberland,</hi> Earl of <hi>Pembroke,</hi> Earl of <hi>Mulgrave,</hi> Earl of <hi>Rutland,</hi> Earl of <hi>Kent,</hi> Earl of <hi>Mancheſter,</hi> Lord <hi>North,</hi> Lord <hi>Hunſden,</hi> Lord <hi>Maynard,</hi> Lord <hi>Dacres,</hi> and
+<pb n="4" facs="tcp:114555:3"/>Lord <hi>Barkly,</hi> had <hi>nullo contradicente</hi> agreed upon ſeveral Votes for laying aſide and reject<g ref="char:EOLhyphen"/>ing the Ordinance yeſterday ſent to them, fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appointing a Court-Marſhal for tryal of the King, and the Order for declaring the King Traytor, for levying War againſt the Parlia<g ref="char:EOLhyphen"/>ment and Kingdom, the ſupream Authority of this Nation (though they would never own that ſtile till now) therefore voted, That the Members of that Houſe, and others, appointed by order of this Houſe, or Ordinance of Par<g ref="char:EOLhyphen"/>liament, to Act in any Ordinance of Parlia<g ref="char:EOLhyphen"/>ment where the Lords are joyned; and are hereby impowered and enjoyned to ſit, act, and execute in the ſaid ſeveral Committees of themſelves, though the Lords joyn not.</p>
+            <p>They order <hi>Farrington</hi> Ward to proceed to Election, and that the Lord Mayor, or any other, ſhould forbear to impoſe the Oath of Common-Councel, or the Oath of Trinity houſe, or any other illegal Oath, upon thoſe that are lately elected for Common-Councel men of <hi>London.</hi>
+            </p>
+            <p>They refer the names of the Officers of Ships to the Navy, to conſider who are fit to be im<g ref="char:EOLhyphen"/>ployed
+<pb n="5" facs="tcp:114555:3"/>in the next Summers Fleet. Col. <hi>Lid<g ref="char:EOLhyphen"/>cot,</hi> and Cap. <hi>Moulton,</hi> eſpecially recommend<g ref="char:EOLhyphen"/>ed to the Navy for imployment.</p>
+            <p>Ordered, That the General ſhould be de<g ref="char:EOLhyphen"/>ſired to command his Marſhal-General to take of all priſoners of War, and for Delinquency, That they be ſecured from eſcaping; and it was referred to the Committee of the Army to enable the Marſhal-General to go on with the ſaid ſervice.</p>
+            <p>The Marſhal-General was likewiſe voted, To put the Ordinances of Parliament in exe<g ref="char:EOLhyphen"/>cution, for ſuppreſſing ſcandalous and unlicen<g ref="char:EOLhyphen"/>ſed Pamphlets, and the Committee of the Army was to enable him to go on with that ſervice.</p>
+            <p>The priſon of <hi>Peter</hi> houſe, and the eſcape of priſoners thence referred.</p>
+            <p>Letters come from Mr. <hi>Strickland,</hi> Agent for the Parliament in <hi>Holland,</hi> that two rich Alder<g ref="char:EOLhyphen"/>men of the City of <hi>London</hi> are landed there, <hi>viz.</hi> Alderman <hi>Langham,</hi> and Alderman <hi>Bunch.</hi>
+            </p>
+            <p>The two Members appointed to know Mr. <hi>Prynnes</hi> anſwer, Whether the ſcandalous
+<pb n="6" facs="tcp:114555:4"/>Pamphlet, to which his name was ſet, was his; and whether he would own it, reported his anſwer, <hi>That when a ſufficient Authority <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to him, he would return a ſpeedy anſwer.</hi> This anſwer is to be conſidered of on Thurſday next.</p>
+            <p>The houſe Ordered, that the Clerk of that houſe ſhould be enjoyned not to give out any Copy of the ſaid Ordinance for tryal of <hi>Charls Stuart,</hi> either to any Member of the Houſe or any other whatſoever.</p>
+            <p>The Ordinance of Parliament for trying of the King was this day brought in, fairly in<g ref="char:EOLhyphen"/>groſſed in Parchment according to former Or<g ref="char:EOLhyphen"/>der, and was read and aſſented unto, The man<g ref="char:EOLhyphen"/>er of His tryal as before, the time and place, Whether at <hi>London</hi> or <hi>Windſor,</hi> nothing fur<g ref="char:EOLhyphen"/>ther; but that is left to the Commiſsioners who are to try Him, and they are to meet Munday next in the Painted Chamber, <hi>Weſtminſter,</hi> and to proceed in order, as to the tryal, which they are to go on withal, without intermiſsi<g ref="char:EOLhyphen"/>on.</p>
+            <p>A Letter came from the Commiſsioners of <hi>Scotland;</hi> Reſident here, Laying open and
+<pb n="7" facs="tcp:114555:4"/>preſsing much for unity of Councels and Acti<g ref="char:EOLhyphen"/>ons according to the Covenant, betwixt the two Kingdoms, Deſiring that the Houſe would not proceed to try or execute the King, till the Advice of that Nation be had thereunto.</p>
+            <p>Approved by the houſe of the apprehending Sir <hi>Robert Stuart</hi> and others that fled into, and that were engaged againſt this Parliament and Army in this Kingdom, and likewiſe <hi>Scotland</hi> in the laſt Summers Rebellion.</p>
+            <p>Voted alſo, That it ſhould be referred to the Lord General and Councel of War, to try Sir <hi>Robert Stuart</hi> by a Councel of War, upon the matters charged againſt him; and that the pro<g ref="char:EOLhyphen"/>ſecutors do give in their charge againſt him to the Councel of War; and that the ſaid Councel be deſired to ſecure the perſon of the ſaid Sir <hi>Robert Stuart,</hi> till the ſaid tryal be ended.</p>
+            <p>The General Councel of the Army intend<g ref="char:EOLhyphen"/>ed to perfect the <hi>Agreement</hi> this day, if the ſit<g ref="char:EOLhyphen"/>ing of the Commiſsioners for tryal of the King in the Painted Chamber had not prevented them: The Houſe roſe betimes likewiſe in re<g ref="char:EOLhyphen"/>lation to that buſineſs.</p>
+            <pb n="8" facs="tcp:114555:5"/>
+            <p> The Commiſsioners being met about three of the clock, (his Excellency being one) after a (ſhort Ceremony performed) they fell to Debate, and came to this Reſolution, <hi>viz.</hi> That to morrow morning a Herald ſhould proclaim, and invite the people to bring in what matter of Fact they had againſt <hi>Charls Stuart,</hi> King of <hi>England.</hi>
+            </p>
+            <p>That on Wedneſday next the Commiſsion<g ref="char:EOLhyphen"/>ers appointed for tryal of the King, intend to ſit in <hi>Weſtminſter</hi> Hall concerning that buſineſs, and to direct all perſons to bring in their Charges on that day.</p>
+            <p>Having thus named the time and place, His Majeſty is expected to be ſpeedily ſent for to <hi>Weſtminſter</hi> in order to His tryal.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
